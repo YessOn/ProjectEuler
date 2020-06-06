@@ -38,3 +38,5 @@ while divisors(check) <= 500:
     check += (seriesLastTerm + 1)
     seriesLastTerm += 1
 print(check)
+
+# The answer: 76576500
