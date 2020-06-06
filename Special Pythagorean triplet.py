@@ -6,5 +6,5 @@ for a in range(1, n):
 				print(a, b, c)
 				print(a*b*c)
 print("Done!")
-
+# (a, b, c)= (200, 375, 425)
 # The answer: 31875000
